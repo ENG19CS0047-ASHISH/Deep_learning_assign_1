@@ -1,5 +1,5 @@
 # -Deep-Learning-Assignment_01
-## Abhishek Krishna TM
-## ENG19CS0011
+##Ashish KumAR
+## ENG19CS0047
 ## Colab Link Below
-## https://colab.research.google.com/drive/1fLTJBD4ROy2SFWIWbqflIj2rjj_8wYMA#scrollTo=TN4Ve8-KjGT1
+## https://colab.research.google.com/drive/1cSkKHsMlYV2VvrG72lvjlbk_a1mOmkwP
